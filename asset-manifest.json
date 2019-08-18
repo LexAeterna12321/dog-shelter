@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dog-shelter/static/css/main.b38a3de4.chunk.css",
+    "main.js": "/dog-shelter/static/js/main.2088a333.chunk.js",
+    "main.js.map": "/dog-shelter/static/js/main.2088a333.chunk.js.map",
+    "runtime~main.js": "/dog-shelter/static/js/runtime~main.07898519.js",
+    "runtime~main.js.map": "/dog-shelter/static/js/runtime~main.07898519.js.map",
+    "static/js/2.b13f12d5.chunk.js": "/dog-shelter/static/js/2.b13f12d5.chunk.js",
+    "static/js/2.b13f12d5.chunk.js.map": "/dog-shelter/static/js/2.b13f12d5.chunk.js.map",
+    "index.html": "/dog-shelter/index.html",
+    "precache-manifest.b7f6323d714b8f50b5f01a57d9f9e9b1.js": "/dog-shelter/precache-manifest.b7f6323d714b8f50b5f01a57d9f9e9b1.js",
+    "service-worker.js": "/dog-shelter/service-worker.js",
+    "static/css/main.b38a3de4.chunk.css.map": "/dog-shelter/static/css/main.b38a3de4.chunk.css.map",
+    "static/media/hazel.jpg": "/dog-shelter/static/media/hazel.4eb85e80.jpg",
+    "static/media/tubby.jpg": "/dog-shelter/static/media/tubby.2f47cb65.jpg",
+    "static/media/whiskey.jpg": "/dog-shelter/static/media/whiskey.5c1e3b17.jpg"
+  }
+}

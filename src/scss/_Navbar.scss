@@ -1,0 +1,52 @@
+.Navbar {
+    display: flex;
+    background-color: #222;
+    color: #fff;
+    align-items: center;
+    padding: 2rem 1rem;
+    font-size: 2rem;
+
+    overflow: hidden;
+
+    &__h2 {
+        cursor: pointer;
+    }
+
+    &__link {
+        color: #aaa;
+        transition: color .2s;
+        display: inline-block;
+        margin: 0 2rem;
+        text-decoration: none;
+    }
+
+    &__link--active {
+        color: #fff
+    }
+
+    &__links {
+        display: flex;
+    }
+
+    @media only screen and(max-width:37.5em) {
+        flex-direction: column;
+        align-items: stretch;
+        text-align: center;
+        position: relative;
+
+        &__links {
+            width: 100%;
+            height: 0;
+            display: flex;
+            flex-direction: column;
+            transition: all .5s;
+            overflow: hidden;
+
+        }
+
+        &--active &__links {
+            height: 120px;
+
+        }
+    }
+}

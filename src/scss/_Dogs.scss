@@ -1,0 +1,9 @@
+.Dogs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    margin: 0 auto;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    grid-gap: 2rem;
+}

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f03f873ff7778b25f6a849beca7786c5",
+    "revision": "b1fcd0e6a4103856162dcc9c6192742b",
     "url": "/dog-shelter/index.html"
   },
   {
-    "revision": "6072811889a76a4acc79",
-    "url": "/dog-shelter/static/css/main.b38a3de4.chunk.css"
+    "revision": "817a7e4e3c58477111a9",
+    "url": "/dog-shelter/static/css/main.d552bee2.chunk.css"
   },
   {
     "revision": "54cf56b639a09743f8fd",
     "url": "/dog-shelter/static/js/2.b13f12d5.chunk.js"
   },
   {
-    "revision": "6072811889a76a4acc79",
-    "url": "/dog-shelter/static/js/main.2088a333.chunk.js"
+    "revision": "817a7e4e3c58477111a9",
+    "url": "/dog-shelter/static/js/main.95d508cf.chunk.js"
   },
   {
     "revision": "d14a908901eab67bec54",
